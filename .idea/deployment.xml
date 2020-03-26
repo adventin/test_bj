@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="test-bj">
+    <serverData>
+      <paths name="test-bj">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/bj-test.kl.com.ua" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
